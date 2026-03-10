@@ -1,0 +1,57 @@
+{
+  "business": {
+    "name": "Centro de estética y salón de uñas B&B Sara Belleza natural",
+    "tagline": "Tu oasis de belleza natural en Port de Sagunt.",
+    "description": "En B&B Sara Belleza Natural, transformamos tu rutina de cuidado en una experiencia de bienestar. Ofrecemos tratamientos de estética y uñas con productos de alta calidad, realzando tu belleza de forma natural y duradera. Descubre un espacio donde la relajación y la excelencia se unen para ti.",
+    "phone": "+34 622 81 65 39",
+    "address": "Av. Camp Morvedre, 95, bajo, 46520 Port de Sagunt, Valencia, España",
+    "email": "info@sara-bellezanatural.es",
+    "rating": 4.8,
+    "reviewCount": 127,
+    "hours": ["Monday: 9:00 AM – 9:00 PM","Tuesday: 9:00 AM – 9:00 PM","Wednesday: 9:00 AM – 9:00 PM","Thursday: 9:00 AM – 9:00 PM","Friday: 9:00 AM – 9:00 PM","Saturday: Closed","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#DDC2B4",
+    "secondary": "#4A4341",
+    "accent": "#B2967A",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Realza tu Belleza Natural. ¡Deslumbra cada día!",
+    "subheadline": "Descubre un santuario de bienestar donde la belleza y la relajación se unen. Expertos en estética y uñas, usamos productos naturales para un resplandor auténtico y duradero.",
+    "cta1": { "text": "Pedir Cita Ahora", "href": "#contact" },
+    "cta2": { "text": "Explorar Nuestros Servicios", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJ3bSHCpMXYA0RCNmM3y7Kmds/photos/ATCDNfWTkAFAtW6V3eHBywD9o3kS2gVEXX5aICZCxGje94m64RgUIUKwz9KXY4V43oQZ9RshMu32Ce7opMjCZDUZgrZMkJGYzw8iYJXM5ltIhktT6zjx_F8-T32RH1QntdXBlquTSL8IuiN0MVHY3MkvTZLFHrla_eg1i9CSZebg5y_l1jm82Fcq2cgAvLgc5fORoGXrp5zz3mfffX7r3ScM-TVynWyMN4bwwj_Ee_Rv9vqm6QbuNj7quXw-spLckutmYGLYiYamQyEUcWzfqpCUqE0hH0alL1ka7OpBAZ0hp1tkbw/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "💅", "title": "Manicura y Pedicura Premium", "description": "Transformamos tus manos y pies con un cuidado excepcional. Disfruta de acabados impecables, esmaltes duraderos y tratamientos que nutren profundamente." },
+    { "icon": "💆‍♀️", "title": "Tratamientos Faciales Personalizados", "description": "Revitaliza tu piel con rituales adaptados a tus necesidades. Desde limpieza profunda hasta anti-edad, tu rostro irradiará salud y juventud." },
+    { "icon": "🌟", "title": "Estética Corporal Avanzada", "description": "Moldea y reafirma tu figura con la última tecnología y técnicas especializadas. Consigue resultados visibles y siéntete segura en tu propia piel." },
+    { "icon": "🌿", "title": "Depilación Natural y Duradera", "description": "Elimina el vello de forma eficaz y suave con nuestros métodos naturales. Piel tersa y sedosa por más tiempo, sin irritaciones." }
+  ],
+  "about": {
+    "title": "Tu Santuario de Belleza y Bienestar en Valencia",
+    "text": "En Centro de estética y salón de uñas B&B Sara Belleza Natural, nuestra pasión es realzar tu belleza innata de una forma auténtica y respetuosa. Desde nuestra apertura, nos hemos dedicado a crear un espacio donde cada visita se convierte en una experiencia única de cuidado y relajación.\n\nCreemos firmemente en el poder de los productos naturales y las técnicas innovadoras para ofrecer resultados excepcionales que perduren. Nuestro equipo de profesionales altamente cualificados se compromete a brindarte una atención personalizada, escuchando tus deseos para superar tus expectativas.\n\nUbicados convenientemente en Port de Sagunt, somos tu destino ideal para desconectar del estrés diario y reconectar contigo misma. Ven a conocernos y descubre por qué tantas clientas nos eligen para su cuidado integral.",
+    "imageUrl": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJ3bSHCpMXYA0RCNmM3y7Kmds/photos/ATCDNfWTkAFAtW6V3eHBywD9o3kS2gVEXX5aICZCxGje94m64RgUIUKwz9KXY4V43oQZ9RshMu32Ce7opMjCZDUZgrZMkJGYzw8iYJXM5ltIhktT6zjx_F8-T32RH1QntdXBlquTSL8IuiN0MVHY3MkvTZLFHrla_eg1i9CSZebg5y_l1jm82Fcq2cgAvLgc5fORoGXrp5zz3mfffX7r3ScM-TVynWyMN4bwwj_Ee_Rv9vqm6QbuNj7quXw-spLckutmYGLYiYamQyEUcWzfqpCUqE0hH0alL1ka7OpBAZ0hp1tkbw/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Interior del Centro de estética y salón de uñas B&B Sara Belleza Natural, con una zona de manicura y estética elegante y acogedora." },
+    { "url": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80", "alt": "Manicura y pedicura profesional en un salón de belleza moderno." },
+    { "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80", "alt": "Tratamiento facial relajante en un ambiente sereno de spa." }
+  ],
+  "testimonials": [
+    { "name": "María López", "stars": 5, "text": "Siempre salgo encantada de B&B Sara. El trato es exquisito y los resultados de mis uñas son perfectos. ¡Un lugar 100% recomendable!" },
+    { "name": "Sofía García", "stars": 5, "text": "El mejor centro de estética en Port de Sagunt. Mis tratamientos faciales son increíbles, mi piel nunca ha estado tan luminosa y cuidada." },
+    { "name": "Elena Martínez", "stars": 4, "text": "Me encanta la profesionalidad y el ambiente relajante. La depilación fue muy suave. Volveré pronto a probar otros servicios." }
+  ],
+  "contact": {
+    "title": "¿Lista para Renovar tu Belleza?",
+    "subtitle": "Contacta con nosotros hoy mismo y reserva tu momento de bienestar. ¡Te esperamos en Port de Sagunt!",
+    "whatsappNumber": "+34 622 81 65 39",
+    "showMap": true,
+    "mapQuery": "Centro de estética y salón de uñas B&B Sara Belleza natural Av. Camp Morvedre, 95, bajo, 46520 Port de Sagunt, Valencia, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Centro de estética y salón de uñas B&B Sara Belleza natural"
+  }
+}
